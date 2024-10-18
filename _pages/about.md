@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Chenghao Zhang"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -16,17 +16,49 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👋 About Me
+📡📡 <span style="color:red;">I am seeking for PhD opportunities!!</span> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am Chenghao(Harry) Zhang, a second-year Master student in Data Science at the University of Pennsylvania and currently doing research under the supervision of Professor [Dan Roth](https://www.cis.upenn.edu/~danroth/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest is in conceptual reasoning within agents, particularly in planning and decision-making. I draw inspiration from how humans subconsciously decompose complex tasks and make decisions. During my internship at Kuaishou Technology(Second-largest short video recommendation platform in China), we modeled user‘s watching process for short video recommendation, which deepened my insights into human cognitive processes. At Penn State RoboX, I was responsible for designing an autonomous robot capable of self-navigation and making decisions about when to launch projectiles. 
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 📖 Educations
+### University of Pennsylvania <span style="font-size: 1.0em;">*(Sep. 2023 – Expected May 2025)*</span>
+**M.S. in Data Science**  
+*GPA: 3.9 / 4.0*
+
+
+### Pennsylvania State University <span style="font-size: 1.0em;">*(Sep. 2019 – May 2023)*</span>
+**B.S. in Data Science(Computational Data Science Track); Minor in Mathematics**   
+*GPA: 3.86 / 4.0 (Ranked Top 3 in Major)* -->
+
+
+# 🤖 Research
+- [On-Going] Solving Planning Task for LLMs with Symbolic Solvers - conducted by me under supervision of Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/) and Prof. [Ben Zhou](http://xuanyu.me/)
+- [On-Going] Synthetic Planning Simulators for Agents - led by [Ajay Patel](https://ajayp.app/) under supervision of Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
+- [Paper Coming Soon] Generate the Watching Process for Short Video Recommendation in Watch-time Prediction - Kuaishou TecTechnologyh
+
+# 📖 Educations
+- *2023.9 - 2025.5*, University of Pennsylvania, *GPA: 3.9 / 4.0*
+- *2023.9 - 2025.5*, Pennsylvania State University, *GPA: 3.86 / 4.0 (Ranked Top 3 in Major)*
+
+# 💻 Internships
+- *2024.5 - 2024.8*, [Kuaishou Technology](https://www.kuaishou.com/en), China.
+- *2022.8 - 2023.8*, [Penn State RoboX](https://sites.psu.edu/robox/), USA.
+- *2021.11 - 2022.1*, [Transwarp Technology](https://www.transwarp.cn/en), China.
+
+# 📝 Blog
+- *2023.8* [Experience in designing and implementing automated robots]()
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,15 +76,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
