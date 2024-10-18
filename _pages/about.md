@@ -42,18 +42,18 @@ My primary research interest is in conceptual reasoning within agents, particula
 - [On-Going] Synthetic Planning Simulators for Agents - led by [Ajay Patel](https://ajayp.app/) under supervision of Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
 - [Paper Coming Soon] Generate the Watching Process for Short Video Recommendation in Watch-time Prediction - Kuaishou TecTechnologyh
 
-# 📖 Educations
+# 📖 Education
 - *2023.9 - 2025.5*, University of Pennsylvania, 
-  - MS, Data Science
+  - Master of Science - MS, Data Science
   - GPA: 3.9 / 4.0
 - *2023.9 - 2025.5*, Pennsylvania State University,
-  - BS, Data Science (Computational Data Science Track)
+  - Bachelor of Science - Data Science (Computational Data Science Track); Minor in Mathematics
   - GPA: 3.86 / 4.0 (Ranked Top 3 in Major)
 
-# 💻 Internships
-- *2024.5 - 2024.8*, [Kuaishou Technology](https://www.kuaishou.com/en), China.
-- *2022.8 - 2023.8*, [Penn State RoboX](https://sites.psu.edu/robox/), USA.
-- *2021.11 - 2022.1*, [Transwarp Technology](https://www.transwarp.cn/en), China.
+# 💻 Internship
+- *2024.5 - 2024.8*, *Machine Learning Engineer* at [Kuaishou Technology](https://www.kuaishou.com/en).
+- *2022.8 - 2023.8*, *Undergraduate Researcher* at [Penn State RoboX](https://sites.psu.edu/robox/).
+- *2021.11 - 2022.1*, *Machine Learning Engineer* at [Transwarp Technology](https://www.transwarp.cn/en).
 
 # 📝 Blog
 - *2023.8* [Experience in designing and implementing automated robots]()
