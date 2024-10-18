@@ -43,8 +43,12 @@ My primary research interest is in conceptual reasoning within agents, particula
 - [Paper Coming Soon] Generate the Watching Process for Short Video Recommendation in Watch-time Prediction - Kuaishou TecTechnologyh
 
 # 📖 Educations
-- *2023.9 - 2025.5*, University of Pennsylvania, *GPA: 3.9 / 4.0*
-- *2023.9 - 2025.5*, Pennsylvania State University, *GPA: 3.86 / 4.0 (Ranked Top 3 in Major)*
+- *2023.9 - 2025.5*, University of Pennsylvania, 
+  - MS, Data Science
+  - GPA: 3.9 / 4.0
+- *2023.9 - 2025.5*, Pennsylvania State University,
+  - BS, Data Science (Computational Data Science Track)
+  - GPA: 3.86 / 4.0 (Ranked Top 3 in Major)
 
 # 💻 Internships
 - *2024.5 - 2024.8*, [Kuaishou Technology](https://www.kuaishou.com/en), China.
