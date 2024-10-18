@@ -37,16 +37,16 @@ My primary research interest is in conceptual reasoning within agents, particula
 *GPA: 3.86 / 4.0 (Ranked Top 3 in Major)* -->
 
 # 📖 Education
-- *2023.9 - 2025.5*, University of Pennsylvania, 
-  - Master of Science - Data Science(School of Engineering)
+- *2023.9 - 2025.5*, University of Pennsylvania - *School of Engineering & Applied Science*, 
+  - Master of Science - Data Science
   - GPA: 3.9 / 4.0
-- *2019.9 - 2023.5*, Pennsylvania State University,
-  - Bachelor of Science - Computational Data Science(School of EECS); Minor in Mathematics
+- *2019.9 - 2023.5*, Pennsylvania State University - *School of Electrical Engineering & Computer Science*,
+  - Bachelor of Science - Computational Data Science; Minor in Mathematics
   - GPA: 3.86 / 4.0 (Ranked Top 3 in Major)
 
 
 # 🤖 Research & Publication
-- [On-Going] Solving Planning Task for LLMs with Symbolic Solvers - conducted by me under supervision of Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/) and Prof. [Ben Zhou](http://xuanyu.me/)
+- [On-Going] LLMs Planning with Symbolic Solvers - conducted by me under supervision of Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/) and Prof. [Ben Zhou](http://xuanyu.me/)
 - [On-Going] Synthetic Planning Simulators for Agents - led by [Ajay Patel](https://ajayp.app/) under supervision of Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
 - [Paper Coming Soon] Generate the Watching Process for Short Video Recommendation in Watch-time Prediction - Kuaishou Technology
 
