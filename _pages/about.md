@@ -59,7 +59,7 @@ My primary research interest is in conceptual reasoning within agents, particula
 
 # 📝 Blog
 - *2023.8* [Experience in designing and implementing automated robots at RoboX](_pages/robox.html)
-
+- *2022.4* [My Understanding for Attention: QKV Mechanism]()
 
 
 <!-- # 🔥 News
