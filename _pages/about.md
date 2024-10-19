@@ -61,6 +61,10 @@ My primary research interest is in conceptual reasoning within agents, particula
 - *2023.8* [Experience in designing and implementing automated robots at RoboX](_pages/robox.html)
 - *2022.4* [My Understanding for Attention: QKV Mechanism]()
 
+# Honors and Awards
+- *2022.3* [Kaggle Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/c/feedback-prize-2021), *Bronze Medal*
+- *2021.8* [Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize), *Silver Medal*
+- *2019 - 2023* Dean's List(All semesters)
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
