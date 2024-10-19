@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 This blog briefly recalls my experience leading the battle strategy development for RoboX:
+this is markdown
 
 ## Table of contents
 
