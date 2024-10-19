@@ -6,9 +6,6 @@ main:
   # - title: "Publications"
   #   url: "/#-publications"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
   - title: "Education"
     url: "/#-education"
 
@@ -23,3 +20,6 @@ main:
 
   - title: "Blog"
     url: "/#-blog"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
