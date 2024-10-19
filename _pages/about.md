@@ -58,7 +58,13 @@ My primary research interest is in conceptual reasoning within agents, particula
 
 
 # 📝 Blog
-- *2023.8* [Experience in designing and implementing automated robots at RoboX]()
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/blog.html)
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/blog.md)
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/blog/)
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/robox.md)
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/robox.html)
+- *2023.8* [Experience in designing and implementing automated robots at RoboX](/robox2.html)
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
