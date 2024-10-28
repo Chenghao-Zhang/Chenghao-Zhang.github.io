@@ -46,7 +46,7 @@ My primary research interest is in conceptual reasoning within agents, particula
 
 
 # 🤖 Research & Publication
-- [Ongoing] LLMs Planning with Symbolic Solvers - conducted by me under supervision of Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/) and Prof. [Ben Zhou](http://xuanyu.me/)
+- [Ongoing] LLMs Planning Leveraging Analogical Reasoning with Symbolic Solvers - conducted by me under supervision of Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/) and Prof. [Ben Zhou](http://xuanyu.me/)
 - [Ongoing] Synthetic Planning Simulators for Agents - led by [Ajay Patel](https://ajayp.app/) under supervision of Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
 - [Paper Coming Soon] Generate the Watching Process for Short Video Recommendation in Watch-time Prediction - Kuaishou Technology
 
